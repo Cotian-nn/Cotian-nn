@@ -11,13 +11,13 @@ Sou entusiasmado com programação, resolução de problemas e aprendizado cont�
 - 📚 **Sempre aprendendo:** Novas tecnologias e melhores práticas
 - 🤝 **Aberto a:** Colaboração e contribuições
 
-## 💻 Stack Técnico
+### 💻 Stack Técnica
 
-**Linguagens:** JavaScript, Python, Java, SQL  
-**Frontend:** React, Vue.js, HTML5, CSS3  
-**Backend:** Node.js, Express, Django  
-**Ferramentas & Plataformas:** Git, Docker, AWS, GitHub Actions
-
+*   **Linguagens:** Java (Spring Boot), JavaScript (ES6+), TypeScript, Python e SQL.
+*   **Frontend:** React.js, HTML5, CSS3 e Tailwind CSS.
+*   **Backend:** Node.js, Express e Java Spring (Ecossistema Spring: Security, Data, Boot).
+*   **Banco de Dados:** PostgreSQL, MySQL e Supabase.
+*   **Ferramentas & Cloud:** Git/GitHub, AWS (Cloud Quest Certified), Microsoft Azure e n8n (Automações).
 ## 📊 Estatísticas do GitHub
 
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cotian-nn&show_icons=true&theme=radical)
